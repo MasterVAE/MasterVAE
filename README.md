@@ -1,4 +1,7 @@
-## Hi there 👋
+# MasterVAE
+## Welcome
+I am back-end developer, currently studying at MIPT DREC faculty.
+I am learning C, C++, ASM, Python
 
 <!--
 **MasterVAE/MasterVAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
