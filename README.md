@@ -1,7 +1,12 @@
 # MasterVAE
 ## Welcome
-I am back-end developer, currently studying at MIPT DREC faculty.
-I am learning C, C++, ASM, Python
+I am backend developer, currently studying at MIPT DREC faculty.
+Now learning C, C++, ASM, Python
+## Sphere of interest
+I am intersted in programming, game developing, modeling
+## How to reach me:
+voilov07@gmail.com
+
 
 <!--
 **MasterVAE/MasterVAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
